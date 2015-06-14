@@ -99,3 +99,5 @@ void Console::executeCommand(std::string& command)
 	else
 		std::cout << "Invalid command" << std::endl;
 }
+
+// ...
